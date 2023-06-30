@@ -1,0 +1,266 @@
+[
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 1,
+                "origin_hash": "2cc732eb65ce79f2bd6182ef85fa0bf0"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "Control_L + Shift_L + Super_L + KEY_F1",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 140,
+                "origin_hash": "57fd6264c5308bb56bca28190005ecbd"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "Control_L + Shift_L + Super_L + KEY_F2",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 15,
+                "origin_hash": "2cc732eb65ce79f2bd6182ef85fa0bf0"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "Control_L + Shift_L + Super_L + KEY_F3",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 13,
+                "origin_hash": "2cc732eb65ce79f2bd6182ef85fa0bf0"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "Control_L + Shift_L + Super_L + KEY_F4",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 98,
+                "origin_hash": "2cc732eb65ce79f2bd6182ef85fa0bf0"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "Control_L + Shift_L + Super_L + KEY_F6",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 69,
+                "origin_hash": "2cc732eb65ce79f2bd6182ef85fa0bf0"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "Control_L + Shift_L + Super_L + KEY_F5",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 55,
+                "origin_hash": "2cc732eb65ce79f2bd6182ef85fa0bf0"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "Control_L + Shift_L + Super_L + KEY_F7",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 14,
+                "origin_hash": "2cc732eb65ce79f2bd6182ef85fa0bf0"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "Control_L + Shift_L + Super_L + KEY_F8",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 71,
+                "origin_hash": "2cc732eb65ce79f2bd6182ef85fa0bf0"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "Control_L + Shift_L + Super_L + KEY_F9",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 72,
+                "origin_hash": "2cc732eb65ce79f2bd6182ef85fa0bf0"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "Control_L + Shift_L + Super_L + KEY_F10",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 73,
+                "origin_hash": "2cc732eb65ce79f2bd6182ef85fa0bf0"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "Control_L + Shift_L + Super_L + KEY_F11",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 74,
+                "origin_hash": "2cc732eb65ce79f2bd6182ef85fa0bf0"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "Control_L + Shift_L + Super_L + KEY_F12",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 75,
+                "origin_hash": "2cc732eb65ce79f2bd6182ef85fa0bf0"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "Control_L + Shift_L + Super_L + KEY_F13",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 76,
+                "origin_hash": "2cc732eb65ce79f2bd6182ef85fa0bf0"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "Control_L + Shift_L + Super_L + KEY_F14",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 77,
+                "origin_hash": "2cc732eb65ce79f2bd6182ef85fa0bf0"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "Control_L + Shift_L + Super_L + KEY_F15",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 78,
+                "origin_hash": "2cc732eb65ce79f2bd6182ef85fa0bf0"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "Control_L + Shift_L + Super_L + KEY_F16",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 79,
+                "origin_hash": "2cc732eb65ce79f2bd6182ef85fa0bf0"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "Control_L + Shift_L + Super_L + KEY_F17",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 80,
+                "origin_hash": "2cc732eb65ce79f2bd6182ef85fa0bf0"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "Control_L + Shift_L + Super_L + KEY_F18",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 81,
+                "origin_hash": "2cc732eb65ce79f2bd6182ef85fa0bf0"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "Control_L + Shift_L + Super_L + KEY_F19",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 96,
+                "origin_hash": "2cc732eb65ce79f2bd6182ef85fa0bf0"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "Control_L + Shift_L + Super_L + KEY_F22",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 82,
+                "origin_hash": "2cc732eb65ce79f2bd6182ef85fa0bf0"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "Control_L + Shift_L + Super_L + KEY_F21",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 83,
+                "origin_hash": "2cc732eb65ce79f2bd6182ef85fa0bf0"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "Control_L + Shift_L + Super_L + KEY_F20",
+        "mapping_type": "key_macro"
+    }
+]
